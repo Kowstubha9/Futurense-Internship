@@ -1,6 +1,6 @@
 This week-1 folder consists of basic python programming codes.
 
-#**Codes:**
+**Codes:**
 * Armstrong number
 * Addition of numbers
 * Maximum of two numbers
