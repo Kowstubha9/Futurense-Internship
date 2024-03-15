@@ -8,8 +8,8 @@ In this folder, codes for exploratory data analysis on netflix dataset are avail
 * Data cleaning
     - Identifying and handling missing values
 * Univariate analysis
-      - Analysis on single variable
+      -  Analysis on single variable
 * Bi-variate analysis
-      - Analysis on two variables
+      -  Analysis on two variables
 * Visualization
-      - Analysis of data using the visualization techniques
+      -  Analysis of data using the visualization techniques
