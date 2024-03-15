@@ -6,7 +6,7 @@ In this folder, codes for exploratory data analysis on netflix dataset are avail
 * Data sourcing
       - Collect and load the data
 * Data cleaning
-*   - Identifying and handling missing values
+   - Identifying and handling missing values
 * Univariate analysis
       -  Analysis on single variable
 * Bi-variate analysis
