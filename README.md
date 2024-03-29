@@ -1,7 +1,13 @@
 **FUTURENSE INTERNSHIP**
 
-29-02-2024:
+Week-1:
 Basic python codes
 
-07-03-2024:
+Week-2:
 Data structures in pyhton
+
+Week-3:
+Netflix - Exploratory Data Analysis 
+
+Week-4:
+India Tourism- Exploratory Data Analysis 
